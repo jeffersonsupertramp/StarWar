@@ -1,0 +1,12 @@
+Principais comandos git/gitHub
+
+git add.  *Adiciona todos arquivos q estão aguardando para serem adicionados ao diretório git para futuro cmmit
+git commit  -m "mensagem do commit"  * Realiza o commit(salvar versao do arquivo já com a mensagem de detalhes da modificação
+
+git config --global core.editor $$ <= editor preferido
+
+git status
+git log
+git add
+git push
+
